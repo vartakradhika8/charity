@@ -1,0 +1,10 @@
+.card{
+    left: 20%;
+    right: 20%;
+}
+
+.row{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}

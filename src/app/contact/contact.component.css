@@ -1,0 +1,17 @@
+
+.card-deck{
+     left: 30%;
+    right: 30%;
+    padding: 10%;
+}
+
+.d-block{
+    height:300px;
+
+}
+
+.modal-content{
+    background-image: url("/src/assets/images/hh.jpg");
+    border-color: blue;
+    background-color: rgb(236, 247, 248);
+}
